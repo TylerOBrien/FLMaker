@@ -13,7 +13,7 @@ package {
 	import com.flmaker.display.Graphic;
 	
 	public class Main extends FLMaker {
-	  // Anything that is visual in FLMaker is a Graphic.
+	  //Anything that is visual in FLMaker is a Graphic.
 		public var box:Graphic;
 		
 		public override function prepare():void {
