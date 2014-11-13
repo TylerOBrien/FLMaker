@@ -8,8 +8,6 @@ How to Use
 
 Example
 ----------
-_Code does not necessarily reflect actual functionality of the library in its current state (i.e. don't expect it to work because it probably won't right now)._
-
 ```as3
 package {
 	import com.flmaker.FLMaker;
